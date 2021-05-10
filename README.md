@@ -30,7 +30,7 @@ SO THAT my account balance is accurate when I am traveling
 
  * HTML, CSS
  * Javascript 
- * MongooseJS
+ * IndexedDB
  * Robo 3T
  * Heroku
  * Express
