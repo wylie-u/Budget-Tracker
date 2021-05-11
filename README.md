@@ -6,7 +6,7 @@ This project creates an application used to track an individual's budget while t
 
 This application utilizes a MongoDB database as well as IndexedDB, which is used to cache transactions while the application is offline.
 
-The app is deployed through Heroku. **[Check out the site here!](https://wy-workout-tracker.herokuapp.com/)**
+The app is deployed through Heroku. **[Check out the site here!](https://budget-tracker-wy.herokuapp.com/)**
 
 
 ## Table of Contents
